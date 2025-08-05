@@ -1,0 +1,5 @@
+diego_aoki87@cloudshell:~ (t-decoder-468101-t3)$ echo "Meu primeiro comando na nuvem" >> comentario.txt
+diego_aoki87@cloudshell:~ (t-decoder-468101-t3)$ echo "Boa noite turma" >> comentario.txt
+diego_aoki87@cloudshell:~ (t-decoder-468101-t3)$ cat comentario.txt
+Meu primeiro comando na nuvem
+Boa noite turma
